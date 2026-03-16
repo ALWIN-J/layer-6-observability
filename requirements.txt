@@ -1,0 +1,6 @@
+langfuse
+dotenv
+openai
+presidio-analyzer
+presidio-anonymizer
+spacy
